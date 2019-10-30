@@ -1,4 +1,4 @@
-# OTN Modern Client Project - Nintendo 3DS Branch
+# OTN Modern Client Project - HTML Branch
 
 ## What's this?
-This is an OTN Client implimentation for the Nintendo 3DS.
+This is an OTN Client implimentation using HTML.
