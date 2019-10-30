@@ -1,4 +1,4 @@
-# OTN Modern Client Project - Chrome Branch
+# OTN Modern Client Project - Nintendo 3DS Branch
 
 ## What's this?
-This is an OTN Client implimentation for Chrome in the form of an extension.
+This is an OTN Client implimentation for the Nintendo 3DS.
