@@ -1,5 +1,3 @@
-< Go Home
-
 # OTN Modern Client Project
 
 ## What's this?
