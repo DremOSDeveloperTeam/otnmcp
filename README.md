@@ -10,6 +10,6 @@ In order to see the different implimentations, you can browse the branches. Ever
 ## Under Construction!
 At this point in time, this website is under construction, so below is a list of all the implimentations of OTNMCP there are.
 
-<a href="implimentations/chrome/index.html">Chrome (Extension)</a>
-<a href="implimentations/html/index.html">HTML/JS</a>
-<a href="implimentatins/3ds/index.html">Nintendo 3DS</a>
+<a href="implimentations/chrome/index.html">Chrome (Extension)</a><br />
+<a href="implimentations/html/index.html">HTML/JS</a><br />
+<a href="implimentatins/3ds/index.html">Nintendo 3DS</a><br />
