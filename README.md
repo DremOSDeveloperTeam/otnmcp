@@ -10,7 +10,15 @@ In order to see the different implimentations, you can browse the branches. Ever
 ## How does it work?
 On many devices, it can be impossible or tedius to use the Telnet client originally provided with OTN. We saw this as a problem, and wanted to be able to expand OTN to more than just old devices. That's where the OTN Modern Clients come in.
 
-Starting with OTN release 0.1.3, there will be 3 different ways to upload a document to the server - Telnet, HTTP, and FTP. These settings can be toggled in the server-configurator.bat file.
+Starting with OTN release 0.1.3, there will be 3 different ways to upload a document to the server - Telnet, HTTP, and FTP. You can toggle the avalibility of the HTTP and FTP servers with the `server-configurator.bat` program. The Telnet client is not able to be turned off.
+
+### Telnet Client
+The Telnet client is the stock client for OTN. It is explained on [the main OTN repository](https://github.com/sparrdrem/otn).
+
+### HTTP Client
+The HTTP client, is a client that is accessible from your web browser! It is also used by some modern clients such as the Chrome extension. The HTTP server is built around MiniWeb.
+
+### 
 
 ## Under Construction!
 At this point in time, this website is under construction, so below is a list of all the implimentations of OTNMCP there are.
