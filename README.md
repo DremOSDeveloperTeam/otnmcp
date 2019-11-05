@@ -7,6 +7,11 @@ The point of this is to make it so "Old to New" doesn't mean it only has to brid
 
 In order to see the different implimentations, you can browse the branches. Every implimentation will be there. The master branch is only for documentation.
 
+## How does it work?
+On many devices, it can be impossible or tedius to use the Telnet client originally provided with OTN. We saw this as a problem, and wanted to be able to expand OTN to more than just old devices. That's where the OTN Modern Clients come in.
+
+Starting with OTN release 0.1.3, there will be 3 different ways to upload a document to the server - Telnet, HTTP, and FTP. These settings can be toggled in the server-configurator.bat file.
+
 ## Under Construction!
 At this point in time, this website is under construction, so below is a list of all the implimentations of OTNMCP there are.
 
