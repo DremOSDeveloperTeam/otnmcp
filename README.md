@@ -12,13 +12,13 @@ On many devices, it can be impossible or tedius to use the Telnet client origina
 
 Starting with OTN release 0.1.3, there will be 3 different ways to upload a document to the server - Telnet, HTTP, and FTP. You can toggle the avalibility of the HTTP and FTP servers with the `server-configurator.bat` program. The Telnet client is not able to be turned off.
 
-### Telnet Client
+### Telnet Interface
 The Telnet client is the stock client for OTN. It is explained on [the main OTN repository](https://github.com/sparrdrem/otn).
 
-### HTTP Client
+### HTTP Interface
 The HTTP client, is a client that is accessible from your web browser! It is also used by some modern clients such as the Chrome extension. The HTTP server is built around MiniWeb.
 
-### 
+### FTP Interface
 
 ## Under Construction!
 At this point in time, this website is under construction, so below is a list of all the implimentations of OTNMCP there are.
